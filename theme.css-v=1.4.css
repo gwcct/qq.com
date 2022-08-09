@@ -13,8 +13,8 @@ body{ }
 a{color:#0014ff;font-size:14px;font-weight:bold;text-decoration: none;}
 
 .swiper-container {width: 100%; height: 100%;}
-.swiper-wrapper {height: 250px; padding: 50px 10px;background-color: #ccc;}
-.swiper-wrapper a { font-size:100px; text-align: center;display: block;line-height: 250px;}
+.swiper-wrapper {height: 200px; padding: 30px 10px;background-color: #ccc;}
+.swiper-wrapper a { font-size:35px; text-align: center;display: block;line-height: 200px;}
 
 .swiper-slide {text-align: center; display: flex; justify-content: center; align-items: center;}
 .swiper-slide img{width: 100%;vertical-align: top;}
